@@ -15,7 +15,7 @@
 npm install code-2-gpt
 ```
 
-🔨 Usage
+## 🔨 Usage
 
 ```bash
 code-2-gpt --ext=js --keep-old
@@ -27,21 +27,23 @@ When You have separate connected data, which structured in a folder, this utilit
 
 Existing results-\*.txt files will not be deleted due to the --keep-old flag. If you want to delete them before creating new ones, just remove this flag.
 
-🌈 Options
+## 🌈 Options
 
 ```bash
 --ext # Specify the extension of the files to be concatenated.
 --keep-old # If present, existing results-\*.txt files will not be deleted.
 ```
 
-👥 Author
+## 👥 Authors
 
 👤 Ali Bahrami Ehsan
 
 Github: @Archer-Thane
 
-📝 License
-This project is ISC licensed.
+## 📝 License
 
-🌟 Show your support
+This project is MIT licensed.
+
+## 🌟 Show your support
+
 Give a ⭐️ if this project helped you!
