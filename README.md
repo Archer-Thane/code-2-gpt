@@ -1,9 +1,9 @@
-# 🚀 code-2-gpt 🎁
+# 👨🏻‍💻 code-2-gpt 🧠
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)
 
-> 💡 This package concatenates all the files of a certain type within a directory into separate text files. Each text file will not exceed a specified size limit. 📚
+> This package concatenates all the files of a certain type within a directory into separate text files. Each text file will not exceed a specified size limit.
 
 ## 📌 Prerequisites
 
