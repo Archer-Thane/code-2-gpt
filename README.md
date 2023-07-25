@@ -17,7 +17,9 @@ npm install code-2-gpt
 
 🔨 Usage
 
+```bash
 code-2-gpt --ext=js --keep-old
+```
 
 This command will concatenate all .js files in the current directory into separate text files, named like results-001.txt, results-002.txt, etc. Each file will contain up to 27500 characters of content. There, you can copy the whole text of code to ChatGPT.
 
@@ -27,11 +29,13 @@ Existing results-\*.txt files will not be deleted due to the --keep-old flag. If
 
 🌈 Options
 
-Option Description
---ext Specify the extension of the files to be concatenated.
---keep-old If present, existing results-\*.txt files will not be deleted.
+```bash
+--ext # Specify the extension of the files to be concatenated.
+--keep-old # If present, existing results-\*.txt files will not be deleted.
+```
 
-👥 Authors
+👥 Author
+
 👤 Ali Bahrami Ehsan
 
 Github: @Archer-Thane
