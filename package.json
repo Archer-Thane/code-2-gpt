@@ -1,0 +1,19 @@
+{
+  "name": "code-2-gpt",
+  "version": "1.0.0",
+  "description": "a little util to convert small projects to a concated file.",
+  "main": "code-2-gpt.js",
+  "bin": {
+    "code-2-gpt": "code-2-gpt.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.3"
+  }
+}
